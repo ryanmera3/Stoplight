@@ -1,0 +1,59 @@
+.mx-auto{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pole{
+  height:200px;
+  width:100px;
+  background-color:black;
+}
+
+.box{
+  height: 450px;
+  width: 250px;
+  background-color:black;
+}
+
+.light{
+  height: 125px;
+  width: 125px;
+  border-radius: 50%;
+}
+
+.red{
+  background-color: red;
+
+}
+
+.yellow{
+  background-color: yellow;
+
+
+}
+
+.green{
+  background-color: green;
+
+}
+
+.d-flex{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.red:hover{
+  box-shadow:0px 0px 60px rgb(211, 74, 74);
+}
+
+
+.yellow:hover{
+  box-shadow:0px 0px 60px rgb(231, 231, 78);
+}
+
+
+.green:hover{
+  box-shadow:0px 0px 60px rgb(70, 226, 70);
+}
+
